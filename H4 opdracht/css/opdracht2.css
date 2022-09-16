@@ -1,0 +1,45 @@
+body {
+    color: gray;
+    background-color: black;
+}
+
+h1, h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkkhaki;
+}
+
+ol {
+    list-style-type: lower-greek;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: #a6a600;
+}
+
+dt {
+    color:#a64626;
+} 
+
+
+table {
+    background-color: #222;
+    border-collapse: collapse;
+}
+
+table, td {
+    padding: 0px;
+    border: solid 1px #a64626;
+}
+td{
+    text-align: center;
+    
+}
+
+.bold {
+    font-weight: bold;
+}
